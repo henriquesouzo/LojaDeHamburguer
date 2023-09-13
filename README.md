@@ -11,12 +11,12 @@ Foram aplicadas algumas técnicas de html e css, como imagem em Banner, navbar e
 Para funcionar voce deve rodar o comando no CMD: 
 npm run serve
 
-<img src="https://github.com/henriquesouzo/LojaDeHamburguer/blob/master/public/img/github%20images/npm%20run%20serve.jpg" /> <br>
+<img src="https://github.com/henriquesouzo/LojaDeHamburguer/blob/master/public/img/github%20images/npm%20run%20serve.jpg" />
 
 e depois em outro cmd para consumir a API:
 npm run backend
 
-<img src="https://github.com/henriquesouzo/LojaDeHamburguer/blob/master/public/img/github%20images/npm%20run%20backend.jpg" /> <br>
+<img src="https://github.com/henriquesouzo/LojaDeHamburguer/blob/master/public/img/github%20images/npm%20run%20backend.jpg" />
 
 Para acessar a pagina funcionando no Vercel acesse o link abaixo:
 
